@@ -10,6 +10,9 @@ For this project, I will synthesise the data contained in the above dataset.
 
 It consists of monthly rainfall records for a Met Éireann station at Bonham St. in Co. Dublin.
 
+![Rain_Cloud](https://github.com/joannefeeney/programming-data-project/assets/123767624/b9432aee-48a5-4b92-bfe3-7f8af006f983)
+
+
 The data contains 170 rows. (The first 13 being descriptors of the data)
 
 There are 7 columns of data included in the data set:

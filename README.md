@@ -10,7 +10,7 @@ For this project, I will synthesise the data contained in the above dataset.
 
 It consists of monthly rainfall records for a Met Éireann station at Bonham St. in Co. Dublin.
 
-<img src="Rain_Cloud.png"  width="300" height="100">
+<img src="Rain_Cloud.png"  width="500" height="200">
 
 
 The data contains 170 rows. (The first 13 being descriptors of the data)
